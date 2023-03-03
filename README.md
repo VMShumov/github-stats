@@ -1,4 +1,4 @@
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/VMShumov/github-stats/actions/workflows/main.yml/badge.svg)
 
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
